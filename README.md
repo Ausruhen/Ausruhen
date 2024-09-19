@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Andy and this is a storage for all of my projects/coursework!
+- The Github can be navigated to see examples of the coding I've done
