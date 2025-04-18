@@ -9,3 +9,5 @@ This Github can be navigated to find examples of all coding I've done. I code pr
 - Data Science 407: Seminar Course in R
 - Econometrics 421 (In progress): Econometrics (R)
 
+#### <ins> Personal Projects/Independent from UO </ins>
+-Global Women's Inequality Study
