@@ -6,7 +6,7 @@ This Github can be navigated to find examples of all coding I've done. I code pr
 - Business Administration 240: Spreadsheet Analysis and Visualization (Excel)
 - Data Science 311: Foundational Data Science (Python)
 - Data Science 345: Statistics and Modeling (Python)
-- Data Science 372: Machine Learning (Python)
+- Computer Science 372: Machine Learning for Data Science (Python)
 - Data Science 407: Seminar Course in R
 - Econometrics 421 (In progress): Econometrics (R)
 
